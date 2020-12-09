@@ -1,15 +1,28 @@
+# SEPIA epidemiological model
+
 The MATLAB® code in this repository runs the SEPIA epidemiological
 model and reproduces the scenarios shown in figure 2 and S1 of the
 manuscript
 
-"The geography of COVID-19 spread in Italy and implications for the
-relaxation of confinement measures"
+> **The geography of COVID-19 spread in Italy and implications for the
+> relaxation of confinement measures**
+>
+> Enrico Bertuzzo, Lorenzo Mari, Damiano Pasetto, Stefano Miccoli,
+> Renato Casagrandi, Marino Gatto, Andrea Rinaldo
+>
+> [medRxiv 2020.04.30.20083568](https://www.medrxiv.org/content/10.1101/2020.04.30.20083568v2);
+> doi:[10.1101/2020.04.30.20083568](https://doi.org/10.1101/2020.04.30.20083568)
 
-Enrico Bertuzzo, Lorenzo Mari, Damiano Pasetto, Stefano Miccoli,
-Renato Casagrandi, Marino Gatto, Andrea Rinaldo
+**Now published in [*Nature Communications*](https://www.nature.com/ncomms/)**
 
-medRxiv 2020.04.30.20083568; doi:
-<https://doi.org/10.1101/2020.04.30.20083568>
+- Bertuzzo, E., Mari, L., Pasetto, D. *et al.* The geography of COVID-19
+spread in Italy and implications for the relaxation of confinement
+measures. *Nat Commun* **11**, 4264 (2020).
+doi:[10.1038/s41467-020-18050-2](https://doi.org/10.1038/s41467-020-18050-2)
+
+[Citation](citation.ris) in [RIS](https://en.wikipedia.org/wiki/RIS_(file_format)) format.
+
+## Running instructions
 
 Launch `SEPIA_main.m` to run the model. The code reads the data and a
 sample of the posterior distribution of parameters and runs the model

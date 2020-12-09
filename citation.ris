@@ -1,0 +1,37 @@
+TY  - JOUR
+AU  - Bertuzzo, Enrico
+AU  - Mari, Lorenzo
+AU  - Pasetto, Damiano
+AU  - Miccoli, Stefano
+AU  - Casagrandi, Renato
+AU  - Gatto, Marino
+AU  - Rinaldo, Andrea
+PY  - 2020
+DA  - 2020/08/26
+TI  - The geography of COVID-19 spread in Italy and implications for the relaxation of confinement measures
+JO  - Nature Communications
+SP  - 4264
+VL  - 11
+IS  - 1
+AB  - The pressing need to restart socioeconomic activities locked-down to control the spread of SARS-CoV-2 in Italy must be coupled with effective methodologies to selectively relax containment measures. Here we employ a spatially explicit model, properly attentive to the role of inapparent infections, capable of: estimating the expected unfolding of the outbreak under continuous lockdown (baseline trajectory); assessing deviations from the baseline, should lockdown relaxations result in increased disease transmission; calculating the isolation effort required to prevent a resurgence of the outbreak. A 40% increase in effective transmission would yield a rebound of infections. A control effort capable of isolating daily  ~5.5% of the exposed and highly infectious individuals proves necessary to maintain the epidemic curve onto the decreasing baseline trajectory. We finally provide an ex-post assessment based on the epidemiological data that became available after the initial analysis and estimate the actual disease transmission that occurred after weakening the lockdown.
+SN  - 2041-1723
+UR  - https://doi.org/10.1038/s41467-020-18050-2
+DO  - 10.1038/s41467-020-18050-2
+ID  - Bertuzzo2020
+ER  - 
+TY  - JOUR
+T1  - The geography of COVID-19 spread in Italy and implications for the relaxation of confinement measures
+JF  - medRxiv
+DO  - 10.1101/2020.04.30.20083568
+SP  - 2020.04.30.20083568
+AU  - Bertuzzo, Enrico
+AU  - Mari, Lorenzo
+AU  - Pasetto, Damiano
+AU  - Miccoli, Stefano
+AU  - Casagrandi, Renato
+AU  - Gatto, Marino
+AU  - Rinaldo, Andrea
+Y1  - 2020/01/01
+UR  - http://medrxiv.org/content/early/2020/05/12/2020.04.30.20083568.abstract
+N2  - We examine the spread of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in Italy, to address the appropriate methodological choices for the design of selective relaxations of the current containment measures. Pressing relevance stems from the need to restart the economy dramatically affected by the lockdown. We employ a spatially explicit, data-intensive model of the patterns of disease spread in Italy, which devotes proper attention to the paramount role of inapparent infections. We aim at providing tools to: estimate the baseline trajectory, i.e. the expected unfolding of the outbreak if the current containment measures were kept in place indefinitely; assess possible deviations from the baseline, should relaxations of the current lockdown result in increased disease transmission; and estimate the isolation effort required to prevent a resurgence of the outbreak. A 40% increase in effective transmission as a result of the loosening of confinement measures would yield an epidemic curve that shows a major rebound, larger than the previous peaks in most regions. A control effort capable of isolating a daily percentage of approximately 5.5% of the exposed and highly infectious individuals proves necessary to counterbalance such an increase and maintain the epidemic curve onto the decreasing baseline trajectory. We explore several scenarios, provide the basic data to design the related control strategies, and discuss their feasibility. Should suitable control via tracing and testing prove unfeasible, stop-and-go enforcement or delay of the lockdown relaxations would be necessary to reduce the isolation effort required to maintain the epidemic trajectory under control.Competing Interest StatementThe authors have declared no competing interest.Funding StatementEB, DP and AR acknowledge funding from Fondazione Cassa di Risparmio di Padova e Rovigo (IT) through its grant 55722 (April 2020)Author DeclarationsAll relevant ethical guidelines have been followed; any necessary IRB and/or ethics committee approvals have been obtained and details of the IRB/oversight body are included in the manuscript.YesAll necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived.YesI understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).Yes I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable.YesAll data used in this manuscript are publicly available. COVID-19 epidemiological data for Italy are available at https://github.com/pcm-dpc/COVID-19. Mobility data at municipality scale are available at https://www.istat.it/it/archivio/139381. Population census data are available at http://dati.istat.it/Index.aspx?QueryId=18460.https://github.com/pcm-dpc/COVID-19https://www.istat.it/it/archivio/139381http://dati.istat.it/Index.aspx?QueryId=18460
+ER  -
